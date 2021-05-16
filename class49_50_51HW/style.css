@@ -1,0 +1,33 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: #e0eaf462;
+    
+    font-family: cursive;
+    font-size: 18px;
+    font-weight: 400;
+    margin-right: -4px;
+    margin-left: -4px;
+    margin-bottom: 40px;
+}
+body{
+    background-color: #f0fff0cc;
+   
+}
+.header{
+    background-color: #e0eaf462;
+     margin-right: -5px;
+    margin-left: -5px;
+    padding-left:2px ;
+    padding-right: 2px;
+    margin-top: -10px;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+}
+.origami{
+    border:solid 2px gainsboro;
+    background-color: #b7b9b728;
+  
+}
